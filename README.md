@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ramiro
+- 👀 I’m interested in learning about cybersecurity
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on projects with my schoolmates
